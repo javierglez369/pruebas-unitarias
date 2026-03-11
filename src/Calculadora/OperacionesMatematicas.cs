@@ -1,6 +1,6 @@
 namespace Calculadora;
 
-public class OperacionesMatematicas {
+public class OperacionesMatematicas{
 
     public int Sumar(int a, int b) => a+b;
 

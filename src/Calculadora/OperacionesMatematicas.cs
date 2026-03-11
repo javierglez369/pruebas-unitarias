@@ -1,6 +1,6 @@
 namespace Calculadora;
 
-public class OperacionesMatematicas {
+public class OperacionesMatematicas{
 
     public int Sumar(int a, int b) => a+b;
 
@@ -17,3 +17,4 @@ public class OperacionesMatematicas {
 
     public bool EsPar(int numero) => numero %2 == 0 ;
 
+}
